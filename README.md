@@ -6,3 +6,4 @@ proper and hygenic canteen
 attendence criteria should be low
 well educated faculties
 good infrastructure
+good placements
